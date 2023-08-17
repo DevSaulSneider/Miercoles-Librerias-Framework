@@ -1,0 +1,22 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(18, 28, 77);
+  color: white;
+}
+.navbar-logo{
+  width: 100px;
+}
+.navbar-logo-img{
+  width: 100%;
+  background-color: aliceblue;
+}
+.navbar-secciones-item{
+  color: white;
+  text-decoration: none;
+}
+.navbar-secciones-barra{
+  color: white;
+  margin: 0 10px;
+}
